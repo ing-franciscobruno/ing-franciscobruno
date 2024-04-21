@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 
-- 🔭 I’m currently working on [mern-blog](https://github.com/franbruno6/mern-blog) and [30 Days of Python](https://github.com/franbruno6/30-Days-Of-Python)
+- 🔭 I’m currently working on [mern-blog](https://mern-blog-1vf8.onrender.com) and [30 Days of Python](https://github.com/franbruno6/30-Days-Of-Python)
 
 - 🌱 I’m currently learning **MERN and Python**
 
