@@ -1,13 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://github.com/franbruno6)
 <h1 align="center">Hi 👋, I'm Francisco Bruno</h1>
-<h3 align="center">A systems analyst about to graduate as a Systems Engineer.</h3>
+<h3 align="center">A Systems Engineer and Web Developer.</h3>
 
 
-- 🔭 I’m currently working on [sistema-venta-angular-aspnet](https://github.com/franbruno6/sistema-venta-angular-aspnet)
+- 🔭 I’m currently working on [Cancionero canalla](https://www.cancionerocanalla.com.ar/)
 
-- 🌱 I’m currently learning **Angular and ASP.Net Core**
-
-- 📚 I’m currently studyng **Systems Engineering**
+- 🌱 I’m currently learning **Cybersecurity Essentials**
 
 - 📫 How to reach me **dev.franciscobruno@gmail.com**
 
