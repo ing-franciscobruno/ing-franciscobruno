@@ -5,11 +5,9 @@
 
 ---
 
-- 🔭 Actualmente trabajando en [Bruno Cercos](https://www.brunocercos.com).
-- 🧠 Estudiando activamente **Java y Angular** para ampliar mis competencias como Full Stack.
+- 🔭 Actualmente trabajando en Inetum España.
 - 🛡️ Formado en **Ciberseguridad**, con certificación de Google y enfoque en SOC y SIEM.
-- 🎓 Ayudante de cátedra en Ingeniería de Software en la Universidad Abierta Interamericana.
-- 🌍 Buscando oportunidades laborales en **España**, con especial interés en desarrollo web y ciberseguridad.
+- 🎓 Experiencia en docencia como ayudante de cátedra en Ingeniería de Software en la Universidad Abierta Interamericana.
 - 💼 Mi portfolio: [ing-franciscobruno.github.io](https://ing-franciscobruno.github.io/)
 - 📬 Contacto: **ing.franciscobruno@gmail.com**
 - ⚡ Dato curioso: ¡Puedo resolver varios tipos de cubo Rubik!
